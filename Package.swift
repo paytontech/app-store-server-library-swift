@@ -8,7 +8,7 @@ let package = Package(
     name: "AppStoreServerLibrary",
     platforms: [
         .macOS(.v11),
-        .iOS(.v13),
+        .iOS(.v14),
         .watchOS(.v6),
         .tvOS(.v13),
     ],
