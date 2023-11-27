@@ -1,6 +1,6 @@
 # Apple App Store Server Swift Library
 The Swift server library for the [App Store Server API](https://developer.apple.com/documentation/appstoreserverapi) and [App Store Server Notifications](https://developer.apple.com/documentation/appstoreservernotifications). Also available in [Java](https://github.com/apple/app-store-server-library-java), [Python](https://github.com/apple/app-store-server-library-python), and [Node.js](https://github.com/apple/app-store-server-library-node).
-
+**this fork just increases the minumum iOS version from 13 -> 14. a feature Apple uses here requires iOS 14 & they haven't implemented an alternative for 13. rather than deal with figuring that out, i just changed the 13 to a 14 and woohoo it magically works now. feel free to use in ur projects**
 ## Table of Contents
 1. [Beta](#-beta-)
 2. [Installation](#installation)
